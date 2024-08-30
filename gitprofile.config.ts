@@ -120,13 +120,13 @@ const CONFIG = {
       name: 'THE COMPLETE FLUTTER DEVELOPMENT BOOTCAMP WITH DART',
       body: 'Develop high quality iOS and Android apps',
       year: 'December 2022',
-      // link: 'https://example.com',
+      link: 'https://www.linkedin.com/in/mohammed-shahid-hussain-012248188/overlay/1724909286726/single-media-viewer/?profileId=ACoAACwskg4BD9fWwr8auPq37ZE0A85RsUjWU3s',
     },
     {
       name: 'ETHEREUM AND SOLIDITY: THE COMPLETE DEVELOPERS GUIDE',
       body: 'Creating impactful blockchain apps using the ethereum blockchain',
       year: 'January 2022',
-      // link: 'https://example.com',
+      link: 'https://www.linkedin.com/in/mohammed-shahid-hussain-012248188/overlay/1724909532813/single-media-viewer/?profileId=ACoAACwskg4BD9fWwr8auPq37ZE0A85RsUjWU3s',
     },
   ],
   educations: [
