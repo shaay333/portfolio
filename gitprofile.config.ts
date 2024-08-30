@@ -123,7 +123,7 @@ const CONFIG = {
       // link: 'https://example.com',
     },
     {
-      name: 'ETHEREUM AND SOLIDITY: THE COMPLETE DEVELOPER'S GUIDE',
+      name: 'ETHEREUM AND SOLIDITY: THE COMPLETE DEVELOPERS GUIDE',
       body: 'Creating impactful blockchain apps using the ethereum blockchain',
       year: 'January 2022',
       // link: 'https://example.com',
