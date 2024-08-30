@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/mohammed-shahid-hussain-012248188/?trk=opento_sprofile_goalscard',
+    linkedin: 'https://www.linkedin.com/in/mohammed-shahid-hussain-012248188/',
     // twitter: 'arif_szn',
     // mastodon: 'arifszn@mastodon.social',
     // researchGate: '',
@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/shaay333/portfolio/blob/main/Shahid_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/shaay333/portfolio/blob/main/Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Java',
