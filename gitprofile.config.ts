@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/mohammed-shahid-hussain-012248188/',
+    linkedin: 'https://www.linkedin.com/in/mohammed-shahid-hussain-012248188/?trk=opento_sprofile_goalscard',
     // twitter: 'arif_szn',
     // mastodon: 'arifszn@mastodon.social',
     // researchGate: '',
@@ -83,20 +83,21 @@ const CONFIG = {
       'https://github.com/shaay333/portfolio/blob/main/Shahid_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Java',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Python',
+    'C++',
+    'C',
+    'R',
     'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
+    'React',
+    'HTML',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'PHP',
+    'CSS',
+    'Dart',
+    'Firebase',
+    'Flutter',
   ],
   // experiences: [
   //   {
@@ -116,10 +117,16 @@ const CONFIG = {
   // ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'THE COMPLETE FLUTTER DEVELOPMENT BOOTCAMP WITH DART',
+      body: 'Develop high quality iOS and Android apps',
+      year: 'December 2022',
+      // link: 'https://example.com',
+    },
+    {
+      name: 'ETHEREUM AND SOLIDITY: THE COMPLETE DEVELOPER'S GUIDE',
+      body: 'Creating impactful blockchain apps using the ethereum blockchain',
+      year: 'January 2022',
+      // link: 'https://example.com',
     },
   ],
   educations: [
