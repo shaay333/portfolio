@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Mohammed Shahid Hussain',
-    description: 'I’m a software developer focusing on mobile app development and blockchain technology. I have experience building high-performance, cross-platform apps with Flutter, and I’m skilled in designing and deploying secure Smart Contracts on the Ethereum blockchain. Currently pursuing my MS in Computer Science from University of Texas at Arlington, I’m passionate about using technology to tackle complex challenges and develop innovative solutions. I’m always looking to grow my expertise and contribute to projects pushing the limits of technology.',
+    description: '',
     imageURL: '',
   },
   social: {
