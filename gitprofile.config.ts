@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/mohammed-shahid-hussain-012248188/?trk=opento_sprofile_goalscard',
+    linkedin: 'https://www.linkedin.com/in/mohammed-shahid-hussain-012248188/',
     // twitter: 'arif_szn',
     // mastodon: 'arifszn@mastodon.social',
     // researchGate: '',
@@ -233,12 +233,12 @@ const CONFIG = {
     },
   },
 
-  // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+  // // Optional Footer. Supports plain text or HTML.
+  // footer: `Made with <a 
+  //     class="text-primary" href="https://github.com/arifszn/gitprofile"
+  //     target="_blank"
+  //     rel="noreferrer"
+  //   >GitProfile</a> and ❤️`,
 
   enablePWA: true,
 };
