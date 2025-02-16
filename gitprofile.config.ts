@@ -78,10 +78,10 @@ const CONFIG = {
     phone: '+16239994735',
     email: 'mdshahidhussain3675@gmail.com',
   },
-  resume: {
-    fileUrl:
-      'https://github.com/shaay333/portfolio/blob/main/Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
-  },
+  // resume: {
+  //   fileUrl:
+  //     'https://github.com/shaay333/portfolio/blob/main/Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+  // },
   skills: [
     'Java',
     'JavaScript',
