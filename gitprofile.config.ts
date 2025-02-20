@@ -10,6 +10,7 @@ const CONFIG = {
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
   base: '/portfolio/',
+  
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -99,22 +100,29 @@ const CONFIG = {
     'Firebase',
     'Flutter',
   ],
-  // experiences: [
-  //   {
-  //     company: 'Company Name',
-  //     position: 'Position',
-  //     from: 'September 2021',
-  //     to: 'Present',
-  //     companyLink: 'https://example.com',
-  //   },
-  //   {
-  //     company: 'Company Name',
-  //     position: 'Position',
-  //     from: 'July 2019',
-  //     to: 'August 2021',
-  //     companyLink: 'https://example.com',
-  //   },
-  // ],
+  experiences: [
+    {
+      company: 'Shiash Info Solutions Private Limited',
+      position: 'Software Engineer Intern',
+      from: 'September 2022',
+      to: 'December 2022',
+      companyLink: 'https://example.com',
+    },
+    {
+      company: 'Zemoso Technologies',
+      position: 'Software Engineer Intern',
+      from: 'March 2022',
+      to: 'August 2022',
+      companyLink: 'https://example.com',
+    },
+    {
+      company: 'Gleem Technologies',
+      position: 'Software Engineer',
+      from: 'November 2021',
+      to: 'February 2022',
+      companyLink: 'https://example.com',
+    },
+  ],
   certifications: [
     {
       name: 'THE COMPLETE FLUTTER DEVELOPMENT BOOTCAMP WITH DART',
